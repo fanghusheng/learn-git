@@ -3,4 +3,5 @@ git is a free software distributed under the GPL.
 git has a mutable index called stage.
 git tracks changes of files.
 creating a new branch is quick and simple.
-合并分支使用默认的fast forward模式，删除分支后，会丢掉分支信息；使用--no-ff方式的git merge
+合并分支使用默认的fast forward模式，删除分支后，会丢掉分支信息；使用--no-ff方式的git merge。
+bug分支
